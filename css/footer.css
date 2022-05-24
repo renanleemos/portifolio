@@ -22,18 +22,46 @@
     font-weight: bold;
     font-size: 2.25rem;
     line-height: 1.1;
+    margin: 40px;
     color: #ffffff;
     margin-bottom: 30px;
+    display: flex;
 }
 
 .footer-contato a {
     color: #ffffff;
     text-decoration: none;
+    
 }
 
 .footer-copy {
     font-size: 1.125rem;
     color: #8f8f8f;
+}
+
+.email {
+    margin-left: -63px;
+    padding: 3px 10px;
+    margin-top: -10px;
+    width: 50px;
+    height: 50px;
+
+}
+
+.linkedin {
+    margin-left: -63px;
+    margin-top: -10px;
+    padding: 3px 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.instagram {
+    margin-top: -10px;
+    padding: 3px 10px;
+    width: 50px;
+    height: 50px;
+    margin-left: -60px;
 }
 
 @media (max-width: 800px) {
